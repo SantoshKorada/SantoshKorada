@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santosh Korada</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working for **Dun & Bradstreet**
+- 🔭 I’m currently working for **Autodesk**
 
-- 🌱 I’m currently learning **AWS, Python, Spring secuirties**
+- 🌱 I’m currently learning **AWS, Python, Spring securities**
 
 - 👯 I’m looking to collaborate on **working for open source projects**
 
